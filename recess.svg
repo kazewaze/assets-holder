@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="158px" viewBox="0 0 130 158" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Rjs-Logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo">
+            <g id="Playground-2" transform="translate(2.000000, 0.000000)">
+                <g id="Top" transform="translate(0.000000, 44.000000)">
+                    <polygon id="Triangle" fill="#F92B61" points="62.5 0 125 65 0 65"></polygon>
+                    <rect id="Rectangle" stroke="#18BFFF" fill="#18BFFF" x="0.5" y="65.5" width="124" height="11.5"></rect>
+                    <rect id="Rectangle" fill="#18BFFF" x="0" y="52" width="12.5" height="25"></rect>
+                    <rect id="Rectangle" fill="#18BFFF" x="23" y="52" width="12.5" height="25"></rect>
+                    <rect id="Rectangle" fill="#18BFFF" x="46" y="52" width="12.5" height="25"></rect>
+                    <rect id="Rectangle" fill="#18BFFF" x="69" y="52" width="12.5" height="25"></rect>
+                    <rect id="Rectangle" fill="#18BFFF" x="92" y="52" width="12.5" height="25"></rect>
+                    <rect id="Rectangle" fill="#18BFFF" x="113" y="52" width="12.5" height="25"></rect>
+                </g>
+                <g id="Flag" transform="translate(57.000000, 0.000000)">
+                    <rect id="Rectangle" stroke="#33CD33" fill="#33CD33" x="0.5" y="17.5" width="9.37735849" height="32"></rect>
+                    <rect id="Rectangle" stroke="#CC3629" fill="#CC3629" x="19.1792453" y="5.5" width="35.3207547" height="16"></rect>
+                    <rect id="Rectangle" stroke="#FF4433" fill="#FF4433" x="0.5" y="0.5" width="35.3207547" height="16"></rect>
+                    <polygon id="Triangle" stroke="#B33024" fill="#B33024" transform="translate(25.943396, 19.500000) rotate(90.000000) translate(-25.943396, -19.500000) " points="24.0915444 11.7169811 27.9433962 27.2830189 23.9433962 27.2830189"></polygon>
+                </g>
+            </g>
+            <text id="Recess.js" font-family="ChalkboardSE-Bold, Chalkboard SE" font-size="30" font-weight="bold" fill="#24292F">
+                <tspan x="0" y="145">Recess.js</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#24292F" fill="#24292F" x="0.5" y="153.5" width="129" height="4" rx="2"></rect>
+        </g>
+    </g>
+</svg>
