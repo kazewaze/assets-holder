@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="187px" height="274px" viewBox="0 0 187 274" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PEAR" transform="translate(93.500000, 136.500000) rotate(-8.000000) translate(-93.500000, -136.500000) translate(18.000000, 10.000000)">
+            <path d="M53.5,0.5 L53.5,44.5 L57.7881807,44.5 C58.9295838,34.8561789 59.5,27.5206975 59.5,22.5 C59.5,13.7391691 59.5,13.6307034 59.5,0.5 L53.5,0.5 Z" id="Rectangle" stroke="#69442C" fill="#69442C" transform="translate(56.500000, 22.500000) scale(1, -1) translate(-56.500000, -22.500000) "></path>
+            <path d="M74,252.507273 C114.869071,252.507273 150.740967,239.105594 150.740967,187.743113 C150.740967,136.380631 93.3482056,146.469492 74,66.5072729 C69.7360118,48.8850721 63.7304031,45.9524645 57,45 C33.1906326,41.6305768 -4.40536496e-13,119.464136 -4.40536496e-13,159.507273 C-4.40536496e-13,210.869755 33.1309285,252.507273 74,252.507273 Z" id="Oval-Copy" stroke="#33EEA3" fill="#33EEA3"></path>
+        </g>
+    </g>
+</svg>
