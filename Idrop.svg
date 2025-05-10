@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="304px" height="134px" viewBox="0 0 304 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(0.000000, -7.000000)" fill="#0009B3">
+            <text id="drop" font-family="Quicksand-Bold, Quicksand" font-size="100" font-weight="bold">
+                <tspan x="74" y="100">drop</tspan>
+            </text>
+            <rect id="Rectangle" transform="translate(152.000000, 14.000000) rotate(90.000000) translate(-152.000000, -14.000000) " x="145" y="-138" width="14" height="304" rx="7"></rect>
+            <rect id="Rectangle-Copy-4" transform="translate(152.000000, 134.000000) rotate(90.000000) translate(-152.000000, -134.000000) " x="145" y="-18" width="14" height="304" rx="7"></rect>
+            <rect id="Rectangle-Copy-5" x="47" y="7" width="14" height="130" rx="7"></rect>
+        </g>
+    </g>
+</svg>
